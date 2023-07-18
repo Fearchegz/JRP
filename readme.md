@@ -1,6 +1,7 @@
-#Run script
-
+# Run script
+```
 $ ruby jetruby.rb
+```
+# license
 
-#license
 MIT
